@@ -2,14 +2,13 @@
 Paper Collection
 
 ## Paper List (Unsorted)
-* [YYYY-MM][arXiv](http) [Title]
-* [YYYY-MM][NIPS](http)  [Title]
-* [YYYY-MM][IJCAI](http) [Title]
-* [YYYY-MM][ICML](http)  [Title]
-* [YYYY-MM][ICLR](http)  [Title]
-* [YYYY-MM][AAAI](http)  [Title]
-* [YYYY-MM][WWW](http)   [Title]
-
+* [20YY-MM][[arXiv](http)] [Title]
+* [20YY-MM][[NIPS](http)]  [Title]
+* [20YY-MM][[IJCAI](http)] [Title]
+* [20YY-MM][[ICML](http)]  [Title]
+* [20YY-MM][[ICLR](http)]  [Title]
+* [20YY-MM][[AAAI](http)]  [Title]
+* [20YY-MM][[WWW](http)]   [Title]
 
 ## Applications / Applied Data Science
-* [YYYY-MM][KDD](http)  [Title]
+* [20YY-MM][[KDD](http)]   [Title]
